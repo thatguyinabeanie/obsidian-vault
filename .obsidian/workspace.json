@@ -11,17 +11,14 @@
             "id": "a198501047c10049",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
         ]
@@ -165,9 +162,10 @@
   },
   "active": "a198501047c10049",
   "lastOpenFiles": [
+    "README.md~",
+    "Untitled.canvas",
     "Welcome.md",
     "README.md",
-    "Untitled.canvas",
     "git/README.md",
     "git"
   ]
