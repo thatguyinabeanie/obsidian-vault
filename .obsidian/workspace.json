@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d16777466af34f0d",
+        "id": "dabf546be2ce752e",
         "type": "tabs",
         "children": [
           {
-            "id": "1d08023f45b959c9",
+            "id": "a198501047c10049",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -156,13 +159,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1d08023f45b959c9",
+  "active": "a198501047c10049",
   "lastOpenFiles": [
-    "README.md",
     "Welcome.md",
+    "README.md",
+    "Untitled.canvas",
     "git/README.md",
     "git"
   ]
