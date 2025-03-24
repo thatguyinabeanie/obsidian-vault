@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "dabf546be2ce752e",
+        "id": "b0b123ca2fc4cf14",
         "type": "tabs",
         "children": [
           {
-            "id": "a198501047c10049",
+            "id": "d8da16350dc05044",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "a93da64e5718574d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +158,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a93da64e5718574d",
+  "active": "d8da16350dc05044",
   "lastOpenFiles": [
-    "Welcome.md",
     "Untitled.canvas",
+    "Welcome.md",
     "README.md",
     "create a link.md",
     "README.md~",
