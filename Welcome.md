@@ -6,13 +6,15 @@ tags: []
 
 # Welcome
 
+This is a story about [[Pablo Escobar]]
+
 This is your new *vault*.
 
-Make a note of something, [[create a link]],
+Make a note of something, [[Create a Link]] 
 or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
 When you're ready, delete this note and make the vault your own.
 
 This is first edit
 
-edit done asynchronously
+Edit done asynchronously
