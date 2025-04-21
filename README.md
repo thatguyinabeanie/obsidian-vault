@@ -1,4 +1,3 @@
-# obsidian_vault
+# Personal Obsidian Vault
 
 This is my obsidian vault.
-
