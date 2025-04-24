@@ -169,9 +169,9 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "d8da16350dc05044",
